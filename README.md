@@ -13,6 +13,8 @@ tme. I then evaluated the efciency of
 and surveyed confdence of both the
 artsts and interpreters.
 
+![](./vr.gif)
+
 This game exempilifes a collaboratve interface which utlizes a
 combination of complementary interaction methods to enable a co-located/remote collaboration among users. In AR/VR pictionary, users are able to observe each others' drawings with object synchronization and communicate through voice chat. The interface thereby infuences
 users’ experiental aspects as a result of
