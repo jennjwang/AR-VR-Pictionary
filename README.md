@@ -1,7 +1,17 @@
 # pictionary_unity
 
-A multiplayer game of pictionary created as a proof-of-concept for drawing in VR. 
-In this project, users experiment with a collaborative interface by creating drawings according to a given prompt and guessing others’ drawings in real time.
+VR allows artsts to create drawings from
+new perspectves with 3D brush strokes.
+I created a multplayer game of pictonary
+as a proof-of-concept for drawing in VR.
+In this project, users experiment with a
+collaboratve interface by creatng
+drawings according to a given prompt
+and guessing others’ drawings in real
+tme. I then evaluated the efciency of
+3D drawings as a form of communicaton
+and surveyed confdence of both the
+artsts and interpreters.
 
 ## Rules of the game
 - There is a crayon in the middle of the room you can pick up to draw
