@@ -24,6 +24,8 @@ physical environment. Given the availability of relatively affordable AR devices
 same level of immersion into an artfcial
 environment as does VR.
 
+![Alt text](./arview.png?raw=true "Title")
+
 ## Rules of the game
 - There is a crayon in the middle of the room you can pick up to draw
 - Whoever holds the crayon is the drawer, everyone else guesses what they are drawing
