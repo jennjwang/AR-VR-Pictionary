@@ -1,4 +1,4 @@
-# pictionary_unity
+# AR/VR Pictionary
 
 VR allows artsts to create drawings from
 new perspectves with 3D brush strokes.
@@ -39,3 +39,8 @@ environment as does VR.
 - You should see others holding the crayon
 - You should be able to erase drawings by pressing the primary button
 - You should be able to communicate through voice chat
+
+## Tools
+- Unity (AR Foundation, XR Interaction Toolkit)
+- Normcore
+
