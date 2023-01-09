@@ -24,7 +24,7 @@ physical environment. Given the availability of relatively affordable AR devices
 same level of immersion into an artfcial
 environment as does VR.
 
-![Alt text](./arview.png?raw=true "Title")
+![drawing of a unicorn](./arview.PNG?raw=true "AR View")
 
 ## Rules of the game
 - There is a crayon in the middle of the room you can pick up to draw
